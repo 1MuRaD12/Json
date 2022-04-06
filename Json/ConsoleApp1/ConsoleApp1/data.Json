@@ -1,0 +1,1 @@
+{"Id":1,"orders":[{"Id":1,"Price":2200.0,"computer":{"Id":1,"Brand":"acer","Ram":"16Gb","Grapics":"RTX 2080","Price":2200.0}},{"Id":1,"Price":1800.0,"computer":{"Id":2,"Brand":"lenova","Ram":"8Gb","Grapics":"GTX 1060","Price":1800.0}},{"Id":1,"Price":3200.0,"computer":{"Id":3,"Brand":"omen","Ram":"32Gb","Grapics":"RTX 3080","Price":3200.0}}],"Totalprice":7200.0}
